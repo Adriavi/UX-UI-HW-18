@@ -72,10 +72,10 @@ background-color: rgba(1, 0, 2, 0.959);
   background-color: rgba(105, 90, 205, 0);
 }
 
-.userresearch {
+.flex {
   display: flex;
-  width: auto;
 }
+  
 
 .author {
   text-align: center;
